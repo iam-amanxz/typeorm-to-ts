@@ -1,4 +1,4 @@
-module typeorm-to-typescript
+module torm-to-ts
 
 go 1.19
 
